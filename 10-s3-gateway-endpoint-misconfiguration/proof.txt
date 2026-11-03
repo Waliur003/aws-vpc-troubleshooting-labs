@@ -1,0 +1,7 @@
+AWS VPC Troubleshooting - Lab 10
+
+Service: Amazon S3
+Connection: S3 Gateway Endpoint
+
+Successful object download confirms the
+private EC2 instance can access S3.
